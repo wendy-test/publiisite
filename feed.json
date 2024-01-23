@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wendy&#x27;s Test Site",
+    "description": "",
+    "home_page_url": "https://wendy-test.github.io/publiisite",
+    "feed_url": "https://wendy-test.github.io/publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "wpk"
+    },
+    "items": [
+    ]
+}

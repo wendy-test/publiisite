@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Wendy&#x27;s Test Site</title>
+    <link href="https://wendy-test.github.io/publiisite/feed.xml" rel="self" />
+    <link href="https://wendy-test.github.io/publiisite" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>wpk</name>
+    </author>
+    <id>https://wendy-test.github.io/publiisite</id>
+
+</feed>
